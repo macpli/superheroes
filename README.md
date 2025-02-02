@@ -51,6 +51,7 @@ npm install
 ```bash
 npm run dev
 ```
+#### Now the client is now available on port 3333 and the API on port 3000.
 
 ## If I Had More Time
 If I had more time, I would:

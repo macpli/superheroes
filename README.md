@@ -1,5 +1,5 @@
 # Humble Superhero API
-
+Task for recruitment process at Ejam
 ## Objective
 Create a simple API that lets users:
 - Add a new superhero, specifying their name, superpower, and a "humility score" showing how humble they are.
